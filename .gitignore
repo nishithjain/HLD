@@ -72,3 +72,7 @@ ui_*
 
 # Ignore documentation binaries
 *.pdf
+
+# Ignore All Office Temp Files
+~$*
+
